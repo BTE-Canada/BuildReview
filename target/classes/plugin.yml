@@ -1,0 +1,8 @@
+name: BuildReview2
+version: 1.0
+main: io.github.celery6.buildreview2.BuildReview2
+commands:
+  build:
+    description: hi
+    usage: /build
+depend: [Vault]

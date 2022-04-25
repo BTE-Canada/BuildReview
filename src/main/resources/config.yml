@@ -1,0 +1,10 @@
+bot:
+  token:
+db:
+  jdbcUrl:
+  user:
+  pass:
+br:
+  pending:
+  declined:
+  complete:
